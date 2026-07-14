@@ -36,11 +36,6 @@ This repository is organized as a structured bootcamp, with each numbered folder
 | 19 | [Flask APIs](./19_flask_apis) | Building and consuming REST endpoints |
 | 20 | [Flask Flashing](./20_flask_flashing) | Flash messages for user feedback |
 
-### Capstone Project
-| # | Project | Description |
-|---|---------|--------------|
-| 21 | [VidSnapAI](./21_VidSnapAI-An-AI-Powered-TikTok-Reel-Generator) | An AI-powered TikTok reel generator combining Flask, templating, and AI integration |
-
 ---
 
 ## 🛠️ Tech Stack
